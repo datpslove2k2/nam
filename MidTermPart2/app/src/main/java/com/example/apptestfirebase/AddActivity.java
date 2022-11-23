@@ -64,7 +64,7 @@ public class AddActivity extends AppCompatActivity {
         map.put("chuY", chuy.getText().toString());
         map.put("turl", turl.getText().toString());
 
-        FirebaseDatabase.getInstance().getReference().child("teachers").push()
+        FirebaseDatabase.getInstance().getReference().child("medicinal").push()
                 .setValue(map)
                 .addOnSuccessListener(new OnSuccessListener<Void>() {
                     @Override
