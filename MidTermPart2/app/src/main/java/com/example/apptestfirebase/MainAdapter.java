@@ -102,7 +102,7 @@ public class MainAdapter extends FirebaseRecyclerAdapter<MainModel, MainAdapter.
                 builder.setPositiveButton("Delete", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
-                        FirebaseDatabase.getInstance().getReference().child("teachers")
+                        FirebaseDatabase.getInstance().getReference().child("medicinal")
                                 .child(getRef(position).getKey()).removeValue();
                     }
                 });
