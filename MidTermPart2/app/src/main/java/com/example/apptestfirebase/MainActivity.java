@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
 
         FirebaseRecyclerOptions<MainModel> options =
             new FirebaseRecyclerOptions.Builder<MainModel>()
-                    .setQuery(FirebaseDatabase.getInstance().getReference().child("teachers"), MainModel.class)
+                    .setQuery(FirebaseDatabase.getInstance().getReference().child("medicinal"), MainModel.class)
                     .build();
         mainAdapter = new MainAdapter(options);
         recyclerView.setAdapter(mainAdapter);
@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "Started Search", Toast.LENGTH_SHORT).show();
         FirebaseRecyclerOptions<MainModel> options =
                 new FirebaseRecyclerOptions.Builder<MainModel>()
-                        .setQuery(FirebaseDatabase.getInstance().getReference().child("teachers").orderByChild("namKH").startAt(txtStr).endAt(txtStr + "\uf8ff"),MainModel.class )
+                        .setQuery(FirebaseDatabase.getInstance().getReference().child("medicinal").orderByChild("namKH").startAt(txtStr).endAt(txtStr + "\uf8ff"),MainModel.class )
                         .build();
         mainAdapter = new MainAdapter(options);
         mainAdapter.startListening();
