@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/drawable-xxxhdpi/circle_bg.xml" value="0.147" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/drawable/bg_border.xml" value="0.152" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/drawable/bg_wid.xml" value="0.152" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/drawable/circle_bg.xml" value="0.152" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.152" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/drawable/ic_baseline_assignment_24.xml" value="0.147" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/drawable/ic_baseline_assignment_24_tt.xml" value="0.147" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/drawable/ic_baseline_favorite_gg.xml" value="0.147" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.147" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/drawable/ic_baseline_home_24_tt.xml" value="0.147" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/drawable/ic_baseline_person_footer_main.xml" value="0.147" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.152" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/drawable/ic_baseline_search_btn.xml" value="0.152" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/drawable/rouded.xml" value="0.1535" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/drawable/search_icon.xml" value="0.152" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/layout/activity_add.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/layout/activity_detail.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/layout/activity_forgot_password.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/layout/activity_get_started.xml" value="0.1267361111111111" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/layout/activity_home_page.xml" value="0.14" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/layout/activity_login_page.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/layout/activity_my_favorite_page.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/layout/activity_profile_page.xml" value="0.21" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/layout/activity_sign_up_page.xml" value="0.21" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/layout/detail_popup.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/layout/fragment_descfragment.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/layout/item_photo.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/layout/main_item.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/layout/update_popup.xml" value="0.17" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/AppTestFireBase/app/src/main/res/menu/search.xml" value="0.14" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/project/MidTermPart2/app/src/main/res/layout/activity_add.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/project/MidTermPart2/app/src/main/res/layout/activity_get_started.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/project/MidTermPart2/app/src/main/res/layout/activity_home_page.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/project/MidTermPart2/app/src/main/res/layout/activity_login_page.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/project/MidTermPart2/app/src/main/res/layout/activity_main.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/project/MidTermPart2/app/src/main/res/layout/activity_my_favorite_page.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/project/MidTermPart2/app/src/main/res/layout/activity_profile_page.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/project/MidTermPart2/app/src/main/res/layout/activity_sign_up_page.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/project/MidTermPart2/app/src/main/res/layout/detail_popup.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/project/MidTermPart2/app/src/main/res/layout/item_photo.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/project/MidTermPart2/app/src/main/res/layout/main_item.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/project/MidTermPart2/app/src/main/res/layout/update_popup.xml" value="0.1361111111111111" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
