@@ -138,7 +138,7 @@ public class MainAdapter extends FirebaseRecyclerAdapter<MainModel, MainAdapter.
             dacTinh = (TextView) itemView.findViewById(R.id.txt_DacTinh);
             mauLa = (TextView) itemView.findViewById(R.id.txt_MauLa);
             congDung = (TextView) itemView.findViewById(R.id.txt_CongDung);
-            duocTinh = (TextView) itemView.findViewById(R.id.txt_CongDung);
+            duocTinh = (TextView) itemView.findViewById(R.id.txt_DuocTinh);
             chuY = (TextView) itemView.findViewById(R.id.txt_ChuY);
             btnDelete = (Button) itemView.findViewById(R.id.btn_Delete);
         }
