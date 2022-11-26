@@ -31,7 +31,7 @@ public class AddActivity extends AppCompatActivity {
         dactinh = (EditText) findViewById(R.id.txtdactinh);
         maula = (EditText) findViewById(R.id.txtmaula);
         congdung = (EditText) findViewById(R.id.txtcongdung);
-        duoctinh = (EditText) findViewById(R.id.txtmaula);
+        duoctinh = (EditText) findViewById(R.id.txtduoctinh);
         chuy = (EditText) findViewById(R.id.txtchuy);
         turl = (EditText) findViewById(R.id.txtImageUrl);
 
